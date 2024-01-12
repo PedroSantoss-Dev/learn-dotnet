@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\bin\Debug\net6.0\Operadores-A.exe
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\bin\Debug\net6.0\Operadores-A.deps.json
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\bin\Debug\net6.0\Operadores-A.runtimeconfig.json
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\bin\Debug\net6.0\Operadores-A.dll
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\bin\Debug\net6.0\Operadores-A.pdb
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\obj\Debug\net6.0\Operadores-A.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\obj\Debug\net6.0\Operadores-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\obj\Debug\net6.0\Operadores-A.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\obj\Debug\net6.0\Operadores-A.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\obj\Debug\net6.0\Operadores-A.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\obj\Debug\net6.0\Operadores-A.dll
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\obj\Debug\net6.0\refint\Operadores-A.dll
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\obj\Debug\net6.0\Operadores-A.pdb
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\obj\Debug\net6.0\Operadores-A.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\fundamentos\Operadores-A\Operadores-A\obj\Debug\net6.0\ref\Operadores-A.dll
