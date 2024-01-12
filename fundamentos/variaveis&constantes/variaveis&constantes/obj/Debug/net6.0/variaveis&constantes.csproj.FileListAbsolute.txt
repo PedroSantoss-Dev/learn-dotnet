@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\bin\Debug\net6.0\variaveis&constantes.exe
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\bin\Debug\net6.0\variaveis&constantes.deps.json
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\bin\Debug\net6.0\variaveis&constantes.runtimeconfig.json
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\bin\Debug\net6.0\variaveis&constantes.dll
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\bin\Debug\net6.0\variaveis&constantes.pdb
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\obj\Debug\net6.0\variaveis&constantes.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\obj\Debug\net6.0\variaveis&constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\obj\Debug\net6.0\variaveis&constantes.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\obj\Debug\net6.0\variaveis&constantes.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\obj\Debug\net6.0\variaveis&constantes.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\obj\Debug\net6.0\variaveis&constantes.dll
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\obj\Debug\net6.0\refint\variaveis&constantes.dll
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\obj\Debug\net6.0\variaveis&constantes.pdb
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\obj\Debug\net6.0\variaveis&constantes.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Estudo\learn-dotnet\variaveis&constantes\variaveis&constantes\obj\Debug\net6.0\ref\variaveis&constantes.dll
